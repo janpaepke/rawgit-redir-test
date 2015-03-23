@@ -1,0 +1,1 @@
+!rawgit-redirect test-relative2.js 301;

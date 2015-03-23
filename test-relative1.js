@@ -1,0 +1,1 @@
+!rawgit-redirect text.txt 301;

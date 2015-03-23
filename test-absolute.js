@@ -1,0 +1,1 @@
+!rawgit-redirect //cdnjs.cloudflare.com/ajax/libs/ScrollMagic/1.3.0/jquery.scrollmagic.js 301;
